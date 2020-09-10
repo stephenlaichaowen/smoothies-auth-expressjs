@@ -1,1 +1,1 @@
-# Smoothies - Sapperjs App
+# Node Auth App
